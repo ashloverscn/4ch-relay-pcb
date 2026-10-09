@@ -11292,6 +11292,17 @@
 		(layer "F.SilkS")
 		(uuid "d3177c22-5ad4-48de-8bce-78ea7d7fa035")
 	)
+	(gr_rect
+		(start 97.42 54.29)
+		(end 195.58 130.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "8c419733-df55-4d3e-ae97-0c9c752512b9")
+	)
 	(gr_text "SASoftwareS"
 		(at 178.75 124.75 0)
 		(layer "B.Cu")
@@ -11303,6 +11314,150 @@
 				(bold yes)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "NC"
+		(at 107.07 57.14 90)
+		(layer "F.SilkS")
+		(uuid "6542de57-7f65-4855-8339-8f3a84c61522")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "CO"
+		(at 112.29 57.11 90)
+		(layer "F.SilkS")
+		(uuid "4993b894-1d2b-46d6-9e1a-015917f5830a")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NO"
+		(at 117.14 57.14 90)
+		(layer "F.SilkS")
+		(uuid "cee321d4-f7da-486f-b5e9-0843b89372b2")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NC"
+		(at 130.41 57.31 90)
+		(layer "F.SilkS")
+		(uuid "14d208cf-5b0e-4d7c-a462-83a3fa89fe7b")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "CO"
+		(at 135.63 57.28 90)
+		(layer "F.SilkS")
+		(uuid "09851d72-309a-4eae-bae1-b63db6894191")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NO"
+		(at 140.48 57.31 90)
+		(layer "F.SilkS")
+		(uuid "4991d0e1-288f-4f50-9f87-5441f82d30b9")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NC"
+		(at 153.16 57.26 90)
+		(layer "F.SilkS")
+		(uuid "45c60983-defc-425b-a3c9-40854799e9a8")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "CO"
+		(at 158.38 57.23 90)
+		(layer "F.SilkS")
+		(uuid "68cee1c6-063b-48ae-8a41-24e99b48f651")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NO"
+		(at 163.23 57.26 90)
+		(layer "F.SilkS")
+		(uuid "3064cea8-0f5e-4367-b422-94b433e328ce")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NC"
+		(at 176.5 57.29 90)
+		(layer "F.SilkS")
+		(uuid "379243a3-8d67-4b30-b584-8166f13fa69b")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "CO"
+		(at 181.72 57.26 90)
+		(layer "F.SilkS")
+		(uuid "1d7b8c63-17ac-4efc-a8cd-7127f3bd7bd5")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NO"
+		(at 186.57 57.29 90)
+		(layer "F.SilkS")
+		(uuid "126f0b54-4122-4dce-84f1-481812a0882f")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "SASoftwareS"
